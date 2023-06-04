@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
-<img align='right' src="./imgProfile/Lilac Brown Illustrative Cute Anime Girl Avatar (1)" width="230">
+<img align='right' src="https://github.com/BiancaStork/BiancaStork/blob/main/imgProfile/Lilac%20Brown%20Illustrative%20Cute%20Anime%20Girl%20Avatar%20(1).png?raw=true" width="190">
 
 
 

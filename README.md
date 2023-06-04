@@ -6,8 +6,9 @@ const bianca = {
   pronouns: "she" | "her",
   code: [Javascript,  HTML, CSS,  Java, Cobol],
   tools: [React, Redux, Node, Styled-Components,Material UI],
-  occupation: I ❤️ programming
-  contact: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  occupation: I ❤️ programming,
+  contact: biancastrk@gmail.com,
+  country:Argentina
 }
 ```
 

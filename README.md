@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
 
+```javascript
+const bianca = {
+  pronouns: "she" | "her",
+  code: [Javascript,  HTML, CSS,  Java, Cobol],
+  tools: [React, Redux, Node, Styled-Components,Material UI],
+  occupation: I ❤️ programming
+  contact: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 
 - 🔭 actualmente estoy trabajando en [Mom Baby & Home](https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF)
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
+<h4 align="center">Full Stack Developer at <a href="http://www.soyhenry.com">Soy Henry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h4>
 <img  align='right' src="https://i.pinimg.com/564x/5c/19/6b/5c196b93094e99b9cd4313c0d9b200a4.jpg" width="140">
 
 

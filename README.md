@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
+<img align='right' src="" width="230">
 
 
 

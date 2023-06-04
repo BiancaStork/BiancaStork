@@ -28,7 +28,7 @@ const bianca = {
 <hr></hr>
 <h3>Last Projects</h3>
 
-![MH&B](https://img.shields.io/badge/e--commerce-BabyHome%26Baby-orange?style=for-the-badge&logo=appveyor) />
+[![MH&B](https://img.shields.io/badge/e--commerce-BabyHome%26Baby-orange?style=for-the-badge&logo=appveyor)](https://momhomeandbaby.netlify.app/)
 
 
 [![Linkedin: biancastork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)

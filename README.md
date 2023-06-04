@@ -1,7 +1,5 @@
-<h1 align="center">Hola 👋, Soy Bianca</h1>
-<h1 align="center">Hi 👋, I'm Bianca</h1>
-<h3 align="center">Soy una apasionada de la Programacion</h3>
-<h3 align="center">I love programming</h3>
+<h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
+<h3 align="center">I ❤️ programming | Amo programar </h3>
 
 
 - 🔭 actualmente estoy trabajando en [Mom Baby & Home](https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF)

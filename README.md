@@ -3,8 +3,6 @@
 <h4 align="center">Full Stack Developer at <a href="http://www.soyhenry.com">Soy Henry🚀🚀</a></h4>
 
 
-
-
 ```javascript
 const bianca = {
   pronouns: "she" | "her",
@@ -15,7 +13,11 @@ const bianca = {
   country:Argentina
 }
 ```
-<br></br>
+
+<h3>Last Projects</h3>
+<p>|May-2023: MH&B-ecommerce | <a href="https://momhomeandbaby.netlify.app/">Demo</p>
+<hr></hr>
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
@@ -26,9 +28,7 @@ const bianca = {
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
 ![Next.js](https://img.shields.io/badge/-Next.js-FAFAFA?style=for-the-badge&logo=next.js&logoColor=333)
 <hr></hr>
-<h3>Last Projects</h3>
 
-[![MH&B](https://img.shields.io/badge/e--commerce-BabyHome%26Baby-orange?style=for-the-badge&logo=appveyor)](https://momhomeandbaby.netlify.app/)
 
 
 [![Linkedin: biancastork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)

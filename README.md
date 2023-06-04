@@ -27,10 +27,13 @@ const bianca = {
 ![Next.js](https://img.shields.io/badge/-Next.js-FAFAFA?style=for-the-badge&logo=next.js&logoColor=333)
 <hr></hr>
 <h3>Last Projects</h3>
-<img src=(https://img.shields.io/badge/e--commerce-BabyHome%26Baby-orange?style=for-the-badge&logo=appveyor) />
+
+![MH&B](https://img.shields.io/badge/e--commerce-BabyHome%26Baby-orange?style=for-the-badge&logo=appveyor) />
+
 
 [![Linkedin: biancastork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)
 [![GitHub BiancaStork](https://img.shields.io/github/followers/BiancaStork?label=follow&style=social)](https://github.com/BiancaStork)
+
 
 
 

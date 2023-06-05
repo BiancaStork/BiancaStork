@@ -20,7 +20,8 @@ const bianca = {
 
 <p>May-2023: MH&B-ecommerce : </br>
 <a href="https://momhomeandbaby.netlify.app/">Demo | <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF"> Repositorio</p>
-
+</br>
+</br>
 <hr></hr>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)

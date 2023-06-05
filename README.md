@@ -16,18 +16,19 @@ const bianca = {
 [![Linkedin: bianca-stork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)
 [![GitHub BiancaStork](https://img.shields.io/github/followers/BiancaStork?label=follow&style=social)](https://github.com/BiancaStork)
   
+<table>
+  <tr>
+    <td>
+      <h3>Últimos proyectos</h3>
+      <p>Mayo-2023: MH&B-ecommerce : </br>
+        <a href="https://momhomeandbaby.netlify.app/">Demo</a> | 
+        <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF">Repositorio</a>
+      </p>
+    </td>
+    <td><img src="Celu.gif" width="108"/></td>
+  </tr>
+</table>
 
-<img float="right" margin= "0 0 10px 10px" src="Celu.gif" width="108"/>
-<div>
-  <h3>Últimos proyectos</h3>
-  <p>Mayo-2023: MH&B-ecommerce : </br>
-    <a href="https://momhomeandbaby.netlify.app/">Demo</a> | 
-    <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF">Repositorio</a>
-  </p>
-</br>
-</br>
-</br>
-</br>
 <hr></hr>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)

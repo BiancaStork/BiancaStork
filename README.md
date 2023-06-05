@@ -15,9 +15,9 @@ const bianca = {
 ```
 [![Linkedin: bianca-stork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)
 [![GitHub BiancaStork](https://img.shields.io/github/followers/BiancaStork?label=follow&style=social)](https://github.com/BiancaStork)
-
-<h3>Last Projects</h3>
   <img src="Celu.gif" align="right" width="108"/>
+<h3>Last Projects</h3>
+
 <p>May-2023: MH&B-ecommerce : </br>
 <a href="https://momhomeandbaby.netlify.app/">Demo | <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF"> Repositorio</p>
 

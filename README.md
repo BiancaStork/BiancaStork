@@ -20,7 +20,8 @@ const bianca = {
 <table>
   <tr>
     <td>    
-      <p>Mayo-2023: MH&B-ecommerce : </br>
+      <p>Mayo-2023: </br>
+          MH&B-ecommerce :
         <a href="https://mombabyandhome.netlify.app/">Demo</a> | 
         <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF">Repositorio</a>
       </p>

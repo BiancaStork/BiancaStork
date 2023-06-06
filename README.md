@@ -21,7 +21,7 @@ const bianca = {
     <td>
       <h3>Últimos proyectos</h3>
       <p>Mayo-2023: MH&B-ecommerce : </br>
-        <a href="https://momhomeandbaby.netlify.app/">Demo</a> | 
+        <a href="https://mombabyandhome.netlify.app/">Demo</a> | 
         <a href="https://github.com/Henry-Proyecto-Firnal-P-10b/vite-front-PF">Repositorio</a>
       </p>
     </td>

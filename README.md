@@ -14,7 +14,7 @@ const bianca = {
 }
 ```
 [![Gmail: bianca stork](https://img.shields.io/badge/%F0%9F%93%A7-Gmail-red)](mailto:biancastrk@gmail.com)
-[![Linkedin: bianca-stork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-stork/)](https://www.linkedin.com/in/bianca-stork/)
+[![Linkedin: bianca-stork](https://img.shields.io/badge/-biancastork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-m-stork/)](https://www.linkedin.com/in/bianca-stork/)
 [![GitHub BiancaStork](https://img.shields.io/github/followers/BiancaStork?label=follow&style=social)](https://github.com/BiancaStork)
  
 <h3>Últimos proyectos</h3>  

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
-<h4 align="center">Full Stack Javascript Developer at <a href="http://www.soyhenry.com">Soy Henry🚀🚀</a> || Full Stack Java Developer at <strong>Codo a Codo 4.0</strong>🚀🚀</a></h4>
-<h4</h4>
+<h4 align="center">Full Stack Javascript Developer 🚀🚀/h4>
 
 
 ```javascript

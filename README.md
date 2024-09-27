@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bianca | Soy Bianca</h1>
 <h3 align="center">I ❤️ programming | Amo programar </h3>
 <h4 align="center">Full Stack Javascript Developer 🚀🚀</h4>
-<h4 align="center">VISITA MI PERFIL DE GITLAB ---> https://gitlab.com/BiancaStork</h4>
+<h4 align="center">Visita tambien mi perfil en GitLab ---> https://gitlab.com/BiancaStork</h4>
 
 
 ```javascript
